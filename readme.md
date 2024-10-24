@@ -11,7 +11,9 @@ Be a MakerKit user and have a project created, wither locally or in production.
 
 ### Add Session Validation Routes to your MakerKit App
 
-1. Create a new route in your MakerKit app that will be used to validate the user session.
+NOTE: This implementation is based on the NextJS + Firebase kit. Adapt as needed if you use a different kit.
+
+1. Create a new route in your MakerKit app that will be used to validate the user session and destroy the session from the extension.
 2. Add the following code to the route: `api/session/validate`
 
 ```
