@@ -2,13 +2,6 @@
 
 MakerKit Chrome Extension Starter Template.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Pre-requisites
 
